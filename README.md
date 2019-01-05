@@ -24,5 +24,7 @@ ADAS.py is supposed to generate an alert for the user when the vision component(
 
 # Further developments : 
 -> refining the system hardware.
+
 -> frequency hopping for different message types.
+
 -> This project is currently being integrated into a mini self driving car project to tinker with the possibilities of combining V2V communication into autonomous cars https://github.com/naughtyStark/Self-driving-car-STM-32
