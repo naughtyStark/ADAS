@@ -9,7 +9,7 @@ numpy (pip install numpy)
 
 serial (pip install pyserial)
 
-# WHAT DO:
+# What it does:
 ->The ADAS.py file is the main file which uses the vision.py and COMS.py files. 
 ADAS.py (not yet complete) is supposed to generate an alert for the user when the vision component(vision.py) detects a threat(collision iminent) and is supposed to broadcast an alert using communications back end(COMS.py, can use any transceiver that works on UART protocol). 
 
